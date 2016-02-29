@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">MyBmobApp</string>
     <string name="action_settings">Settings</string>
+    <string name="action_taobao">Taobao Login</string>
+    <string name="action_list">List Items</string>
+    <string name="action_get_taobaoke">get taobaoke</string>
 </resources>
